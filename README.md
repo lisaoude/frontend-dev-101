@@ -1,4 +1,4 @@
-# frontend-dev-101
+# Frontend Development 101 (met een vleugje UX)
 
 Cases
 - To Do app
