@@ -21,7 +21,7 @@ Bij het werken aan deze case richt je je altijd op de volgende onderdelen:
 _Let op: bij elke case werk je in een duo: je hoeft dus niet alles alleen te doen_
 
 <!---- To Do App ---->
-### To Do app
+### :memo: To Do app
 Bij deze case ga je een To Do app maken. In deze To Do app moet de gebruiker minimaal het volgende kunnen doen:
 - Een to do lijst aanmaken
 - Een to do item aanmaken
@@ -37,7 +37,7 @@ Hierbij verwerk je & beschrijf je in je readme de volgende [Principles of User I
 </br>
 
 <!---- Webshop ---->
-### 'Webshop' frontend overview page
+### :shopping_cart: 'Webshop' frontend overview page
 
 <!-- niet helemaal zeker over de beschrijving -->
 Bij deze case ga je een fake-it-till-you-make-it style webshop maken: je hoeft niets echt te kunnen bestellen, maar alles moet wel lijken alsof het werkt. Deze overview pagina moet minimaal de volgende onderdelen bevatten:
@@ -56,7 +56,7 @@ Hierbij verwerk je & beschrijf je in je readme de volgende [Principles of User I
 </br>
 
 <!---- Landingspagina ---->
-### Landingspagina voor product
+### :flight_arrival: Landingspagina voor product
 Bij deze case ga je een landingspagina maken voor een product naar jouw keuze. Deze pagina promoot het door jou gekozen product, zoals een auto, telefoon, fiets - alles kan. Deze landingspagina moet minimaal de volgende onderdelen bevatten:
 <!-- vul maar in wat ik het geen idee -->
 
@@ -69,7 +69,7 @@ Hierbij verwerk je & beschrijf je in je readme de volgende [Principles of User I
 </br>
 
 <!---- Advanced landingspagina ---->
-### Advanced: Landingspagina voor product met GSAP
+### :red_circle::flight_arrival: Advanced: Landingspagina voor product met GSAP
 _Let op: deze case is bedoeld voor de meer gevorderde developers onder ons_
 
 Bij deze case ga je een een stap verder in het maken van een landingspagina maken voor een product naar jouw keuze. Deze landingspagina moet minimaal de volgende onderdelen bevatten:
