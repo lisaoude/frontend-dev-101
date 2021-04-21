@@ -4,7 +4,7 @@
 
 ## :question: Wat gaan we doen?
 Tijdens deze SRP-week gaan we volop aan de slag met developen!  <!-- ander woord van developen? gewoon coderen & programmeren? -->  
-Gedurende deze week zal in een duo werken aan een door jou gekozen [case](#open_file_folder-Cases).  
+Gedurende deze week zal je in een duo gaan werken aan een door jou gekozen [case](#open_file_folder-Cases).  
 
 <!-- deze 3 punten anders verwoorden? -->
 Bij het werken aan deze case richt je je altijd op de volgende onderdelen:
@@ -41,11 +41,11 @@ Hierbij verwerk je & beschrijf je in je readme de volgende [Principles of User I
 
 <!-- niet helemaal zeker over de beschrijving -->
 Bij deze case ga je een fake-it-till-you-make-it style webshop maken: je hoeft niets echt te kunnen bestellen, maar alles moet wel lijken alsof het werkt. Deze overview pagina moet minimaal de volgende onderdelen bevatten:
-- Een menu
+<!-- - Een menu
 - Minimaal 2 categorieën
 - Minimaal 5 soorten items
-- De optie om 1 item te bekijken
-<!-- meer? -->
+- De optie om 1 item te bekijken -->
+<!-- Ik had eerst dat hierboven, maar met meerdere categorieën ga je weg van overview en meer naar detail dingen, dus even kijken wat we hier anders doen qua eisen -->
 
 Hierbij verwerk je & beschrijf je in je readme de volgende [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/):
 - 07 - Keep secondary actions secondary
@@ -57,8 +57,10 @@ Hierbij verwerk je & beschrijf je in je readme de volgende [Principles of User I
 
 <!---- Landingspagina ---->
 ### :flight_arrival: Landingspagina voor product
-Bij deze case ga je een landingspagina maken voor een product naar jouw keuze. Deze pagina promoot het door jou gekozen product, zoals een auto, telefoon, fiets - alles kan. Deze landingspagina moet minimaal de volgende onderdelen bevatten:
+Bij deze case ga je een landingspagina maken voor een product naar jouw keuze. Deze pagina promoot het door jou gekozen product, zoals een auto, fiets, telefoon - alles kan. Deze landingspagina moet minimaal de volgende onderdelen bevatten:
 <!-- vul maar in wat ik het geen idee -->
+
+_Tip: kies een bestaande website uit en bouw deze (verbeterd) na_
 
 Hierbij verwerk je & beschrijf je in je readme de volgende [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/):
 - 06 - One primary action per screen
@@ -74,6 +76,8 @@ _Let op: deze case is bedoeld voor de meer gevorderde developers onder ons_
 
 Bij deze case ga je een een stap verder in het maken van een landingspagina maken voor een product naar jouw keuze. Deze landingspagina moet minimaal de volgende onderdelen bevatten:
 <!-- dezelfde eisen als bij normale landingspagina, maar met extra dingen voor GSAP-->
+
+_Tip: kies een bestaande website uit en bouw deze (verbeterd) na_
 
 Hierbij verwerk je & beschrijf je in je readme de volgende [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/):
 - 06 - One primary action per screen
