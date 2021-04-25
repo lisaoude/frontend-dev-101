@@ -36,7 +36,7 @@ Verder heb je de volgende dingen nodig:
 ## :rocket: Wat zijn de leerdoelen?
 Na deze SRP-week kun jij:  
 - Jouw weg vinden in het git systeem
-- Implementeren van UX & UI principles in code
+- UX & UI principles implementeren in code & beschrijven in je readme
 - Gestructureerde code opleveren, met bijbehorende code comments
 
 
