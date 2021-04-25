@@ -3,14 +3,102 @@
 <!------------ nieuw onderdeel ------------>
 
 ## :question: Wat gaan we doen?
-Tijdens deze SRP-week gaan we volop aan de slag met developen!  <!-- ander woord van developen? gewoon coderen & programmeren? -->  
-Gedurende deze week zal je in een duo gaan werken aan een door jou gekozen [case](#open_file_folder-Cases).  
+Tijdens deze SRP week gaan we aan de slag met de frontend basic's van het vak. Het is oké als je nog niet veel van frontend af weet, maar wel dat je gemotiveerd bent om ermee aande slag te gaan!  
+Gedurende deze week zal je samen met een duo aan de slag gaan met een door jullie 
+gekozen [case](#open_file_folder-Cases)  
 
-<!-- deze 3 punten anders verwoorden? -->
-Bij het werken aan deze case richt je je altijd op de volgende onderdelen:
-- Optimaliseren GitHub workflow, individueel & in teams
-- Refactoren van code
-- Duidelijke UI & UX
+Tijdens het werken aan deze case ligt de focus op de volgende onderdelen:
+- Leer de basics van GitHub, en werken in team
+- Hoe je het beste je code kan refactoren
+- UX & UI principles in code implementeren
+
+</br>
+
+---
+<!------------ nieuw onderdeel ------------>
+
+## :handbag: Wat heb je nodig?
+Voorafgaand aan de SRP-week vragen we je een heel kort formulier in te vullen 
+waarop je aangeeft hoe je je eigen niveau inschat. Zo kunnen we goede duo's maken!  
+
+[Hier kun je het formulier vinden]()  
+
+Verder heb je de volgende dingen nodig:
+- GitHub account
+- Code editor geïnstalleerd op je laptop
+- Git geïnstalleerd op je laptop - [Dat kan hier](https://git-scm.com/downloads)
+</br>
+
+---
+
+<!------------ nieuw onderdeel ------------>
+
+## :rocket: Wat zijn de leerdoelen?
+Na deze SRP-week kun jij:  
+- Jouw weg vinden in het git systeem
+- Implementeren van UX & UI principles in code
+- Gestructureerde code opleveren, met bijbehorende code comments
+
+
+</br>
+
+---
+
+<!------------ nieuw onderdeel ------------>
+
+## :books: Wat zijn de deliverables?
+Na deze week lever je de volgende onderdelen op:  
+- Link naar GitHub repository, met minimaal 2 collaborators
+- Live link naar gemaakte opdracht
+- Zip file (inclusief .gitignore, etc.)
+- Readme met documentatie
+
+
+</br>
+
+---
+
+<!------------ nieuw onderdeel ------------>
+
+## :white_check_mark: Wanner heb je je SRP punt behaald?
+Je hebt je SRP/P-punt gehaald als:  
+- Je aanwezig bent geweest bij alle check-ups
+- Je de deliverables hebt opgeleverd
+- Je je eindproduct hebt gepresenteerd
+
+
+</br>
+
+---
+
+<!------------ nieuw onderdeel ------------>
+
+## :memo: De planning
+### Maandag
+- 9:30 - Introductie SRP week & kiezen case
+- 11:00 - GitHub 101 
+- 13:00 - Werken in duo's aan opdracht
+- 15:00 - Check-up in duo's
+
+### Dinsdag
+- 9:30 - 'College' over UI Principles
+- 11:00 - Werken in duo's aan opdracht
+- 15:00 - Check-up in duo's
+
+### Woensdag
+- Verplichte vrije dag :)
+
+### Donderdag
+- 9:30 - 'College' over code refactoring 
+- 11:00 - Werken in duo's aan opdracht
+- 14:00 - Extra klassikaal vragenmoment
+- 15:00 - Check-up in duo's
+
+### Vrijdag
+- 9:30 - Afronden opdracht in duo's
+- **14:00 - Deadline eindopdracht**
+- 14:00 - Presentaties (concept + live link)
+
 
 </br>
 
