@@ -60,7 +60,7 @@ Na deze week lever je de volgende onderdelen op:
 
 <!------------ nieuw onderdeel ------------>
 
-## :white_check_mark: Wanner heb je je SRP punt behaald?
+## :white_check_mark: Wanneer heb je je SRP punt behaald?
 Je hebt je SRP/P-punt gehaald als:  
 - Je aanwezig bent geweest bij alle check-ups
 - Je de deliverables hebt opgeleverd
