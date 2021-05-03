@@ -3,9 +3,9 @@
 <!------------ nieuw onderdeel ------------>
 
 ## :question: Wat gaan we doen?
-Tijdens deze SRP week gaan we aan de slag met de frontend basic's van het vak. Het is oké als je nog niet veel van frontend af weet, maar wel dat je gemotiveerd bent om ermee aande slag te gaan!  
+Tijdens deze SRP week gaan we aan de slag met de frontend basics van het vak. Het is oké als je nog niet veel van frontend af weet, maar wel dat je gemotiveerd bent om ermee aande slag te gaan!  
 Gedurende deze week zal je samen met een duo aan de slag gaan met een door jullie 
-gekozen [case](#open_file_folder-Cases)  
+gekozen [case](#open_file_folder-Cases).
 
 Tijdens het werken aan deze case ligt de focus op de volgende onderdelen:
 - Leer de basics van GitHub, en werken in team
