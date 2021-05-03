@@ -76,7 +76,7 @@ Je hebt je SRP/P-punt gehaald als:
 ## :memo: De planning
 ### Maandag
 - 9:30 - Introductie SRP week & kiezen case
-- 11:00 - GitHub 101 
+- 10:30 - GitHub 101 
 - 13:00 - Werken in duo's aan opdracht
 - 15:00 - Check-up in duo's
 
