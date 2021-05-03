@@ -108,13 +108,15 @@ Je hebt je SRP/P-punt gehaald als:
 ## :open_file_folder: Cases
 _Let op: bij elke case werk je in een duo: je hoeft dus niet alles alleen te doen_
 
+Ongeacht welke case je kiest, werk je altijd met HTML, CSS en JS.
+
+
 <!---- To Do App ---->
 ### :memo: To Do app
 Bij deze case ga je een To Do app maken. In deze To Do app moet de gebruiker minimaal het volgende kunnen doen:
 - Een to do lijst aanmaken
 - Een to do item aanmaken
 - Een to do item afvinken
-<!-- meer? -->
 
 Hierbij verwerk je & beschrijf je in je readme de volgende [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/):
 - 04 - Keep users in control
@@ -129,11 +131,9 @@ Hierbij verwerk je & beschrijf je in je readme de volgende [Principles of User I
 
 <!-- niet helemaal zeker over de beschrijving -->
 Bij deze case ga je een fake-it-till-you-make-it style webshop maken: je hoeft niets echt te kunnen bestellen, maar alles moet wel lijken alsof het werkt. Deze overview pagina moet minimaal de volgende onderdelen bevatten:
-<!-- - Een menu
-- Minimaal 2 categorieën
-- Minimaal 5 soorten items
-- De optie om 1 item te bekijken -->
-<!-- Ik had eerst dat hierboven, maar met meerdere categorieën ga je weg van overview en meer naar detail dingen, dus even kijken wat we hier anders doen qua eisen -->
+- 12 verschillende producten
+- Filter
+- Toevoegen aan winkelmandje (+1, product hoeft niet echt in je mandje te zitten)
 
 Hierbij verwerk je & beschrijf je in je readme de volgende [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/):
 - 07 - Keep secondary actions secondary
@@ -146,7 +146,8 @@ Hierbij verwerk je & beschrijf je in je readme de volgende [Principles of User I
 <!---- Landingspagina ---->
 ### :flight_arrival: Landingspagina voor product
 Bij deze case ga je een landingspagina maken voor een product naar jouw keuze. Deze pagina promoot het door jou gekozen product, zoals een auto, fiets, telefoon - alles kan. Deze landingspagina moet minimaal de volgende onderdelen bevatten:
-<!-- vul maar in wat ik het geen idee -->
+- 5 onderdelen over het product (beschrijving, waar te koop, etc.) _exclusief header en footer_
+- Animaties on scroll
 
 _Tip: kies een bestaande website uit en bouw deze (verbeterd) na_
 
@@ -157,18 +158,3 @@ Hierbij verwerk je & beschrijf je in je readme de volgende [Principles of User I
 - 11 - Strong visual hierarchies work best
 
 </br>
-
-<!---- Advanced landingspagina ---->
-### :red_circle::flight_arrival: Advanced: Landingspagina voor product met GSAP
-_Let op: deze case is bedoeld voor de meer gevorderde developers onder ons_
-
-Bij deze case ga je een een stap verder in het maken van een landingspagina maken voor een product naar jouw keuze. Deze landingspagina moet minimaal de volgende onderdelen bevatten:
-<!-- dezelfde eisen als bij normale landingspagina, maar met extra dingen voor GSAP-->
-
-_Tip: kies een bestaande website uit en bouw deze (verbeterd) na_
-
-Hierbij verwerk je & beschrijf je in je readme de volgende [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/):
-- 06 - One primary action per screen
-- 07 - Keep secondary actions secondary
-- 08 - Provide a natural next step
-- 11 - Strong visual hierarchies work best
