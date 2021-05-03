@@ -128,8 +128,6 @@ Hierbij verwerk je & beschrijf je in je readme de volgende [Principles of User I
 
 <!---- Webshop ---->
 ### :shopping_cart: 'Webshop' frontend overview page
-
-<!-- niet helemaal zeker over de beschrijving -->
 Bij deze case ga je een fake-it-till-you-make-it style webshop maken: je hoeft niets echt te kunnen bestellen, maar alles moet wel lijken alsof het werkt. Deze overview pagina moet minimaal de volgende onderdelen bevatten:
 - 12 verschillende producten
 - Filter
