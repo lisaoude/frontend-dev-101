@@ -97,7 +97,7 @@ Je hebt je SRP/P-punt gehaald als:
 ### Vrijdag
 - 9:30 - Afronden opdracht in duo's
 - **14:00 - Deadline eindopdracht**
-- 14:00 - Presentaties (concept + live link)
+- 14:00 tot 16:00 - Presentaties (concept + live link)
 
 
 </br>
