@@ -147,7 +147,7 @@ Hierbij verwerk je & beschrijf je in je readme de volgende [Principles of User I
 ### :flight_arrival: Landingspagina voor product
 Bij deze case ga je een landingspagina maken voor een product naar jouw keuze. Deze pagina promoot het door jou gekozen product, zoals een auto, fiets, telefoon - alles kan. Deze landingspagina moet minimaal de volgende onderdelen bevatten:
 - 5 onderdelen over het product (beschrijving, waar te koop, etc.) _exclusief header en footer_
-- Animaties on scroll
+- Animaties (extra uitdaging: on scroll)
 
 _Tip: kies een bestaande website uit en bouw deze (verbeterd) na_
 
