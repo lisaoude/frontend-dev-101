@@ -78,12 +78,12 @@ Je hebt je SRP/P-punt gehaald als:
 - 9:30 - Introductie SRP week & kiezen case
 - 10:30 - GitHub 101 
 - 13:00 - Werken in duo's aan opdracht
-- 15:00 - Check-up in duo's
+- 15:00 tot 16:30 - Check-up in duo's
 
 ### Dinsdag
 - 9:30 - 'College' over UI Principles
 - 11:00 - Werken in duo's aan opdracht
-- 15:00 - Check-up in duo's
+- 15:00 tot 16:30 - Check-up in duo's
 
 ### Woensdag
 - Verplichte vrije dag :)
@@ -92,7 +92,7 @@ Je hebt je SRP/P-punt gehaald als:
 - 9:30 - 'College' over code refactoring 
 - 11:00 - Werken in duo's aan opdracht
 - 14:00 - Extra klassikaal vragenmoment
-- 15:00 - Check-up in duo's
+- 15:00 tot 16:30 - Check-up in duo's
 
 ### Vrijdag
 - 9:30 - Afronden opdracht in duo's
