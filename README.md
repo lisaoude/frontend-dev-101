@@ -51,7 +51,8 @@ Na deze week lever je de volgende onderdelen op:
 - Link naar GitHub repository, met minimaal 2 collaborators
 - Live link naar gemaakte opdracht
 - Zip file (inclusief .gitignore, etc.)
-- Readme met documentatie
+- Readme met documentatie (benoemen case, uitleg UI principles in een paar regels + screenshots)
+  - [Hier](https://www.markdownguide.org/cheat-sheet/) kun je vinden welke elementen je kunt gebruiken in je readme voor titels, afbeeldingen, etc.
 
 
 </br>
