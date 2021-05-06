@@ -50,7 +50,8 @@ Na deze SRP-week kun jij:
 Na deze week lever je de volgende onderdelen op:  
 - Link naar GitHub repository, met minimaal 2 collaborators
 - Live link naar gemaakte opdracht
-- Zip file (inclusief .gitignore, etc.)
+  - [Kijk hier](https://github.com/lisaoude/frontend-dev-101/tree/main/livelink) hoe dat makkelijk kan via GitHub pages!
+- Zip file met alle code
 - Readme met documentatie
   - [Kijk hier](https://github.com/lisaoude/examplereadme) voor tips & een voorbeeld readme!
 
