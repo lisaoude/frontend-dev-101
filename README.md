@@ -54,6 +54,10 @@ Na deze week lever je de volgende onderdelen op:
 - Readme met documentatie (benoemen case, uitleg UI principles in een paar regels + screenshots)
   - [Hier](https://www.markdownguide.org/cheat-sheet/) kun je vinden welke elementen je kunt gebruiken in je readme voor titels, afbeeldingen, etc.
 
+</br>
+
+Deliverables kunnen worden gemaild naar: lisa.oude.elferink@hva.nl (we kunnen geen slots aanmaken op DLO)  
+De cijfers krijgen jullie vrijdagmiddag na de presentaties :smile:
 
 </br>
 
@@ -66,7 +70,6 @@ Je hebt je SRP/P-punt gehaald als:
 - Je aanwezig bent geweest bij alle check-ups
 - Je de deliverables hebt opgeleverd
 - Je je eindproduct hebt gepresenteerd
-
 
 </br>
 
